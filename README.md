@@ -8,3 +8,4 @@ Gustos:
 -Ver series.
 -Jugar videojuegos.
 -Escuchar a Dua Lipa.
+-Ver el Americano
