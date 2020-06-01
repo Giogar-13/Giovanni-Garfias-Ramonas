@@ -9,6 +9,13 @@ Gustos:
   --Breaking Bad.
   --Cosmos.
   --La casa de Papel.
-  --Gotham 
+  --Gotham
 -Jugar videojuegos.
 -Escuchar a Dua Lipa.
+
+Personal:
+
+Facebook: Giovanni Garfias Becerril.
+Estudiante de la ENP 6.
+Edad: 18 años
+No. telefónico: 5555-5555.
