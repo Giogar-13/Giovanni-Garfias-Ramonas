@@ -10,6 +10,7 @@ Gustos:
   --Cosmos.
   --La casa de Papel.
   --Gotham
+  --GOT
 -Jugar videojuegos.
 -Escuchar a Dua Lipa.
 
