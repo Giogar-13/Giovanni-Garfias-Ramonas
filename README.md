@@ -6,8 +6,9 @@ Información acerca de mí:
 Gustos:
 
 -Ver series:
-  --Breaking Bad
-  --Cosmos
-  --La casa de Papel. 
+  --Breaking Bad.
+  --Cosmos.
+  --La casa de Papel.
+  --Gotham 
 -Jugar videojuegos.
 -Escuchar a Dua Lipa.
