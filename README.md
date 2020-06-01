@@ -1,2 +1,4 @@
 # Giovanni-Garfias-Ramonas
-Giovanni Garfias Becerril 
+Giovanni Garfias Becerril .
+
+Información acerca de mí:
